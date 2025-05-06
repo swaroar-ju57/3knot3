@@ -1,6 +1,6 @@
 <div align="center">
 
-#   🎮 3knot3 🚀
+#   🎮 3knot3 🎮
 
  <p><em>A top-down 2.5D shooting game based on the 1971 Liberation War of Bangladesh.</em></p>
 
@@ -157,17 +157,6 @@
             <p style="margin-top: 0.5em; margin-bottom: 0.5em;">
                 <a href="https://github.com/AuvroIslam" target="_blank">
                     <img src="https://img.shields.io/badge/GitHub-AuvroIslam-100000?style=flat&logo=github&logoColor=white">
-                </a>
-            </p>
-        </td>
-        <td style="width: 20%; vertical-align: top; text-align: left; padding: 10px;">
-            <h4>   Zubair Islam Epty   </h4>
-            <p style="margin-top: 0.5em; margin-bottom: 0.5em;">
-                <img src="https://img.shields.io/badge/Role-Mentor-4E9BCD?style=for-the-badge">
-            </p>
-            <p style="margin-top: 0.5em; margin-bottom: 0.5em;">
-                <a href="https://github.com/zubEpty" target="_blank">
-                    <img src="https://img.shields.io/badge/GitHub-zubEpty-100000?style=flat&logo=github&logoColor=white">
                 </a>
             </p>
         </td>
